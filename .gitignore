@@ -101,7 +101,6 @@ venv.bak/
 
 # terraform 
 terraform.tfstate*
-.terraform
 keys/
 
 .DS_Store
